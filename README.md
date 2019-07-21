@@ -186,7 +186,7 @@ The following is an overview of all available configuration default for this rol
 Define these variables to copy scripts to your respective scripts path.
 
 * `zabbix_server_alertscripts`: List of alertscripts to be added to `zabbix_server_alertscriptspath`
-* `zabbix_server_externalscripts`: List of alertscripts to be added to `zabbix_server_externalscriptspath`
+* `zabbix_server_externalscripts`: List of externalscripts to be added to `zabbix_server_externalscriptspath`
 
 Example:
 
